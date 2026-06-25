@@ -96,6 +96,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Animalz Content Marketing Benchmark Report 2021 by Ryan Lewis](https://www.animalz.co/blog/benchmark-report-2021/)
 - [16 Ways to Generate Stellar Content Ideas](https://ahrefs.com/blog/content-ideas/)
 - [Elon Musk's Storytelling Framework](https://noise.beehiiv.com/p/elon-musks-storytelling-framework)
+- [The Free X Growth Course](https://slappost.app/learn/) - 5 free, no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel
 
 # CRM
 
